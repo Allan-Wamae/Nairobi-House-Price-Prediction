@@ -1,0 +1,12 @@
+# virtual environment
+.venv/
+
+# python junk
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
